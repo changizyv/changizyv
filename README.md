@@ -29,7 +29,7 @@ I am exploring the intersection of AI and UI/UX design, aiming to leverage AI to
 
 If you share similar interests or have exciting projects that you think I could contribute to, feel free to reach out!
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/changizy/)
+- [LinkedIn](https://www.linkedin.com/in/changizy/)
   
 - [Email](mailto:changizyv@gmail.com)
 
